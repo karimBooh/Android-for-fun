@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nom">Nom :</string>
+    <string name="fermer">Fermer</string>
+    <string name="pr_nom">Prénom :</string>
+    <string name="date_de_naissance">Date de naissance :</string>
+    <string name="idul">IDUL :</string>
+    <string name="site_web_ext">Site Web (ext)</string>
+    <string name="site_web_wv">Site web (wv)</string>
+    <string name="ulaval">ULaval</string>
+    <string name="profil">Profil</string>
+</resources>

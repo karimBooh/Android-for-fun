@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/firstnameinput"
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:translationX="150dp"
+        android:translationY="40dp" />
+
+    <TextView
+        android:id="@+id/firstname"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/pr_nom"
+        android:layout_marginStart="20dp" />
+
+
+    <TextView
+        android:id="@+id/lastnameinput"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:translationX="150dp"
+        android:translationY="40dp" />
+
+    <TextView
+        android:id="@+id/lastname"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/nom"
+        android:layout_marginStart="20dp" />
+
+
+    <TextView
+        android:id="@+id/birthdayinput"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:translationX="150dp"
+        android:translationY="40dp" />
+
+    <TextView
+        android:id="@+id/birthday"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/date_de_naissance" />
+
+
+    <TextView
+        android:id="@+id/idulinput"
+        android:layout_width="261dp"
+        android:layout_height="wrap_content"
+        android:translationX="150dp"
+        android:translationY="40dp" />
+
+    <TextView
+        android:id="@+id/idul"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:text="@string/idul"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp" />
+
+</LinearLayout>
